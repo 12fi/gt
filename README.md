@@ -1,2 +1,1 @@
-# gt
-kamera sadap
+https://github.com/thelinuxchoice/saycheese
