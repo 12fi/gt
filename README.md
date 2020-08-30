@@ -1,0 +1,2 @@
+# gt
+kamera sadap
